@@ -1,0 +1,5 @@
+com/example/app_with_argocd/entity/Student.class
+com/example/app_with_argocd/repository/StudentRepository.class
+com/example/app_with_argocd/AppWithArgocdApplication.class
+com/example/app_with_argocd/dto/StudentDto.class
+com/example/app_with_argocd/controller/StudentController.class

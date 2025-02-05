@@ -1,0 +1,5 @@
+/home/runner/work/app-with-argocd/app-with-argocd/src/main/java/com/example/app_with_argocd/AppWithArgocdApplication.java
+/home/runner/work/app-with-argocd/app-with-argocd/src/main/java/com/example/app_with_argocd/controller/StudentController.java
+/home/runner/work/app-with-argocd/app-with-argocd/src/main/java/com/example/app_with_argocd/dto/StudentDto.java
+/home/runner/work/app-with-argocd/app-with-argocd/src/main/java/com/example/app_with_argocd/entity/Student.java
+/home/runner/work/app-with-argocd/app-with-argocd/src/main/java/com/example/app_with_argocd/repository/StudentRepository.java
